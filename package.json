@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "projeto_individual4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Daniela Sodeiro",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
