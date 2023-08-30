@@ -1,33 +1,40 @@
+# Ferramenta de Ordenação de Propriedades de CSS
 
-# Ferramenta que Ordena as Propriedades de CSS
-
-Este é um projeto em Node.js, que implementa uma ferramenta para ordenar propriedades de CSS em ordem alfabética. A ferramenta permite que o usuário insira propriedades de CSS até que a palavra "SAIR" seja digitada. Quando isso acontecer, a lista de propriedades será exibida no terminal em ordem alfabética.
+Este projeto implementa uma ferramenta em Node.js para ordenar propriedades de CSS em ordem alfabética. A ferramenta permite que o usuário insira propriedades de CSS até que a palavra "SAIR" seja digitada. Quando isso acontecer, a lista de propriedades será exibida no terminal em ordem alfabética.
 
 ## Como Usar
 
-1. Certifique-se de ter o Node.js instalado em seu sistema.
+1. Certifique-se de ter o Node.js instalado em seu sistema. 
+Você pode baixá-lo em: (https://nodejs.org/)
 
-2. Clone este repositório para o seu computador:
-    
-    git clone https://github.com/DaniSodeiro/prjeto_individual4
+2. Clonar o Repositório
+
+Clone este repositório para o seu computador usando o seguinte comando no terminal:
+
+git clone https://github.com/DaniSodeiro/prjeto_individual4
 
 3. Navegue até a pasta do repositório:
-    
+
     cd prjeto_individual4
 
-4. Instale as dependências do projeto:
-    
+4. Instalação:
+Instale as dependências do projeto usando o seguinte comando:
+
     npm install
 
-5. Execute o programa:
+5. Execução:
+Execute o programa com o seguinte comando:
 
     npm start
 
-Digite os nomes das  propriedades de CSS conforme solicitado.
+Siga as instruções para digitar os nomes das propriedades de CSS conforme solicitado.
 
-Digite "SAIR" para encerrar e ver a lista ordenada.
+Digite "SAIR" para encerrar a inserção e ver a lista ordenada das propriedades.
+
 
 ## Tecnologias
+Tecnologias Utilizadas:
+
     Node.js 
 
     readline-sync
