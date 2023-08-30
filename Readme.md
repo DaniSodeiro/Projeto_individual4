@@ -8,29 +8,32 @@ Este é um projeto em Node.js, que implementa uma ferramenta para ordenar propri
 1. Certifique-se de ter o Node.js instalado em seu sistema.
 
 2. Clone este repositório para o seu computador:
-git clone https://github.com/DaniSodeiro/prjeto_individual4
+    git clone https://github.com/DaniSodeiro/prjeto_individual4
 
 3. Navegue até a pasta do repositório:
-cd prjeto_individual4
+    cd prjeto_individual4
 
 4. Instale as dependências do projeto:
-npm install
+    npm install
 
 5. Execute o programa:
 
-npm start
+    npm start
 
 Digite os nomes das  propriedades de CSS conforme solicitado.
 
 Digite "SAIR" para encerrar e ver a lista ordenada.
 
 ## Tecnologias
-Node.js 
+    Node.js 
 
-readline-sync
+    readline-sync
+
 ## Documentação
 
-## Autores
+    Node.js 
+
+## Autor
 
 - Daniela Sodeiro Silva 
  https://github.com/DaniSodeiro
