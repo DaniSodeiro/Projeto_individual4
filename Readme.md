@@ -1,6 +1,5 @@
 # Ferramenta de Ordenação de Propriedades de CSS
 
-Este projeto implementa uma ferramenta em Node.js para ordenar propriedades de CSS em ordem alfabética. A ferramenta permite que o usuário insira propriedades de CSS até que a palavra "SAIR" seja digitada. Quando isso acontecer, a lista de propriedades será exibida no terminal em ordem alfabética.
 
 ## Como Usar
 
