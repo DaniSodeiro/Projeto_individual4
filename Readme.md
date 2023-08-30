@@ -1,4 +1,18 @@
-# Ferramenta de Ordenação de Propriedades de CSS
+# Organizador de Propriedades CSS
+
+Este projeto implementa uma ferramenta em Node.js para ordenar propriedades de CSS em ordem alfabética. A ferramenta permite que o usuário insira propriedades de CSS até que a palavra "SAIR" seja digitada. Quando isso acontece, a lista de propriedades é exibida no terminal em ordem alfabética.
+
+## Evidência de Entrega
+
+Durante o desenvolvimento deste projeto, tomei as seguintes decisões que considerei importantes para a funcionalidade e clareza do código:
+
+1. **Readline-sync**: Permite interagir com o usuário através da linha de comando, pausando a execução do programa enquanto aguarda a entrada do usuário. 
+ 
+2. **Organização do Código**: Dividi a lógica em funções para tornar o código mais legível e modular.
+
+3. **Mensagem de Saída**: Adicionei mensagens claras para guiar o usuário durante a execução do programa, facilitando a compreensão do fluxo de interação.
+
+4. **Validação de Entrada**: Implementei uma validação para garantir que o usuário não insira propriedades vazias, garantindo a integridade dos dados.
 
 
 ## Como Usar
